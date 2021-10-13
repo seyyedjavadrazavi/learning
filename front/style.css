@@ -1,0 +1,23 @@
+/* it is global tag*/ p{
+    font-size: 50px;
+}
+
+.big-font{
+    font-size: 40px;
+}
+
+.color-font{
+    color: aqua;
+}
+
+ul .test.active{
+    color: red;
+}
+
+.nav .test.active{
+    color: pink;
+}
+
+
+/* For start css, we should download a css reset (good one is already exist in github) and use it at first of html file. */
+
